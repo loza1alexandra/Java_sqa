@@ -1,3 +1,5 @@
+package ru.stqa.ptf.test;
+
 import javax.sound.midi.*;
 import javax.swing.*;
 import java.awt.*;
